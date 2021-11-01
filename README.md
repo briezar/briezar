@@ -1,7 +1,7 @@
 ## 👋 Hi there, I’m Viet, also go by the name Briezar
 
 # 🎮 My longtime aspiration is to be a Game Developer
-Although I would consider myself a freshman in the coding university, I've expressed my interest in coding since a long while back.
+Although I would consider myself a small fish-hatchling only beginning to explore the coding sea, I've expressed my interest in coding since a long while back.
 
 - 🌱 I’m currently attending a Game Developer course at Green IT Academy.
 - 🐢 I'm familiar with Git and Tortoise Git but have not worked as a team before.
