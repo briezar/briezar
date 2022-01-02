@@ -4,7 +4,7 @@
 Although I would consider myself a small fish-hatchling only beginning to explore the coding sea, I've expressed my interest in coding since a long while back.
 
 - 🌱 I’m currently attending a Game Developer course at Green IT Academy.
-- 🐢 I'm familiar with Git and Tortoise Git but have not worked as a team before.
+- 🐢 I'm familiar with Git, using Tortoise Git and SourceTree but have not worked as a team before.
 - 🎈 I’m looking to score a job in the gaming industry, preferably a Game Dev. It would also be nice to start off as an intern.
 - 📫 I've not worked at a Gaming Company before but I do have a large knowledge pool of all the games I've played.
 - 🖱 Fun fact: I used to make Warcraft III custom maps for me and my friends to play.
