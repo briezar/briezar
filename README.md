@@ -8,6 +8,6 @@
 
 ### Languages and Tools
 <img align="left" alt="C#" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="C#" height="32" src="https://cdn.simpleicons.org/typescript.svg" />
-<img align="left" alt="Unity" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/1920px-Unity_2021.svg.png" />
-<img align="left" alt="Git" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="TypeScript" height="32" src="https://cdn.simpleicons.org/typescript" />
+<img align="left" alt="Unity" height="32" src="https://cdn.simpleicons.org/unity" />
+<img align="left" alt="Git" height="32" src="https://cdn.simpleicons.org/git" />
