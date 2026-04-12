@@ -1,9 +1,9 @@
 ## 👋 Hi there, I’m Viet, also go by the name Briezar/Viridian
 
-# 🎮 I'm ~~an aspiring~~ a seasoned Game Developer. Yes, just that.
+# 🎮 I'm a Game Developer
 
-- 🌱 I would consider myself a mid-level Developer, with 3 years of experience with Unity.
-- 🐢 I'm familiar with Git, primarily using SourceTree, and has collaborated in a team.
+- 🌱 I would consider myself a mid-level Developer, with 4 years of experience with Unity.
+- 🐢 I'm familiar with Git, primarily using SourceTree, and has collaborated in teams.
 - 🖱 Fun fact: I used to make Warcraft III custom maps for my friends to play along.
 
 ### Languages and Tools
