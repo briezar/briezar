@@ -1,13 +1,36 @@
-## 👋 Hi there, I’m Viet, also go by the name Briezar/Viridian
+## 👋 Hi, I'm Viet (Briezar)
 
-# 🎮 I'm a Game Developer
+### Unity Developer
 
-- 🌱 I would consider myself a mid-level Developer, with 4 years of experience with Unity.
-- 🐢 I'm familiar with Git, primarily using SourceTree, and has collaborated in teams.
-- 🖱 Fun fact: I used to make Warcraft III custom maps for my friends to play along.
+Unity developer with experience building mobile games, gameplay systems, backend integrations, live ops features, and native platform integrations.
 
-### Languages and Tools
-<img align="left" alt="C#" height="32" src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" />
-<img align="left" alt="TypeScript" height="32" src="https://cdn.simpleicons.org/typescript" />
-<img align="left" alt="Unity" height="32" src="https://cdn.simpleicons.org/unity" />
-<img align="left" alt="Git" height="32" src="https://cdn.simpleicons.org/git" />
+#### Areas of Experience
+
+* Unity (2D Mobile Games)
+* Backend Integration (REST APIs)
+* Live Ops & Remote Configuration
+* SDK Integration (Firebase, Adjust, PlayFab)
+* Addressables & Remote Content Delivery
+* Native iOS Plugins (Apple Pay, Checkout.com, Sumsub)
+* Custom Editor Tooling & Reusable Frameworks
+
+#### Featured Repositories
+
+### 🎮 Playable Demos
+- [Magic Tiles](https://github.com/briezar/magic-tiles)
+- [Zoo Tycoon](https://github.com/briezar/zoo-tycoon)
+
+### 🛠 Frameworks & Tooling
+- [GameDevKit](https://github.com/briezar/game-dev-kit)
+
+### 📱 Native Integrations
+- [Apple Pay Plugin](https://github.com/briezar/apple-pay-plugin)
+- [Checkout.com Plugin](https://github.com/briezar/checkout-unity-plugin)
+- [Sumsub Plugin](https://github.com/briezar/sumsub-unity-plugin)
+
+#### Background
+
+* 4+ years of Unity development experience
+* Experience working in commercial mobile game projects
+* Familiar with Git-based team workflows
+* Former Warcraft III map maker
